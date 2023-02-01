@@ -29,6 +29,9 @@ a{
   width: 100vw;
   border-radius: 1rem;
 }
+.home {
+  max-width: 600px;
+}
 .game-image {
   width: 100%;
   border-radius: 1rem;
