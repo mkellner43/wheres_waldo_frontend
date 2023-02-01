@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/wheres_waldo_frontend/static/css/main.4abe1f04.css",
-    "main.js": "/wheres_waldo_frontend/static/js/main.ce54f796.js",
+    "main.css": "/wheres_waldo_frontend/static/css/main.68315c3d.css",
+    "main.js": "/wheres_waldo_frontend/static/js/main.ac981159.js",
     "static/media/spaceStation.jpeg": "/wheres_waldo_frontend/static/media/spaceStation.35ada657ef10a9dab393.jpeg",
     "static/media/fruitLand.jpeg": "/wheres_waldo_frontend/static/media/fruitLand.8ad5bf527edc342950f7.jpeg",
     "static/media/skiSlopes.jpeg": "/wheres_waldo_frontend/static/media/skiSlopes.4ff336e8bd3aaa9fcb4a.jpeg",
@@ -9,11 +9,11 @@
     "static/media/character2.jpg": "/wheres_waldo_frontend/static/media/character2.581c5b23231ba318621b.jpg",
     "static/media/character3.jpg": "/wheres_waldo_frontend/static/media/character3.87308bb2e89394787431.jpg",
     "index.html": "/wheres_waldo_frontend/index.html",
-    "main.4abe1f04.css.map": "/wheres_waldo_frontend/static/css/main.4abe1f04.css.map",
-    "main.ce54f796.js.map": "/wheres_waldo_frontend/static/js/main.ce54f796.js.map"
+    "main.68315c3d.css.map": "/wheres_waldo_frontend/static/css/main.68315c3d.css.map",
+    "main.ac981159.js.map": "/wheres_waldo_frontend/static/js/main.ac981159.js.map"
   },
   "entrypoints": [
-    "static/css/main.4abe1f04.css",
-    "static/js/main.ce54f796.js"
+    "static/css/main.68315c3d.css",
+    "static/js/main.ac981159.js"
   ]
 }
