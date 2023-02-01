@@ -118,7 +118,7 @@ const Game = (props) => {
           <img id="charFour" src={require('../images/character4.jpg')} alt="character 4" />
         </div>
       </div>
-      <div style={{position: 'absolute'}}>
+      <div style={{position: 'absolute', width: '100vw', left: 0}}>
         {marker}
         <img className="game-image" src={findImage()} alt={props.mode} onClick={handleClick} />
       </div>
